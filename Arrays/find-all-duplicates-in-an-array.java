@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/find-all-duplicates-in-an-array/
 // 442. Leetcode - MEDIUM
-// Microsoft question
+// Amazon and Microsoft question
 
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
